@@ -1,5 +1,21 @@
 # Tableau Homework - Citi Bike Analytics
 
+## ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## Tableau Public URL - https://public.tableau.com/profile/sambhaji.thakur#!/vizhome/CitiBikeReview_16210422021850/Story
+
+## ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![Story Page 1](https://user-images.githubusercontent.com/71988949/118347185-d3a26a80-b506-11eb-94a9-21b992e79519.PNG)
+
+![Story Page 2](https://user-images.githubusercontent.com/71988949/118347188-d8671e80-b506-11eb-8bb2-ddc72f1094aa.PNG)
+
+![Story Page 3](https://user-images.githubusercontent.com/71988949/118347191-dbfaa580-b506-11eb-9c61-25546653a35d.PNG)
+
+![Story Page 4](https://user-images.githubusercontent.com/71988949/118347192-def59600-b506-11eb-887b-a0b25cbb8d1d.PNG)
+
+## ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ### Before You Begin
 
 * This assignment will be saved to your Tableau Public account rather than GitHub. 
